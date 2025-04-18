@@ -1,0 +1,72 @@
+body {
+  font-family: "Roboto" sans-serif;
+  color: black;
+}
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+h2 {
+  font-size: 36px;
+  font-weight: 700;
+}
+h3 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.web {
+  color: black;
+  text-decoration: none;
+}
+.accent {
+  color: rgb(40, 8, 226);
+}
+.nav {
+  color: black;
+  text-decoration: none;
+}
+.first-field {
+  background-color: #2e2f42;
+  text-align: center;
+  font-size: 56px;
+}
+.first-field-one {
+  color: #fff;
+  font-weight: 700;
+}
+.first-field-button {
+  cursor: pointer;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
+  width: 169px;
+  height: 56px;
+  font-size: 16px;
+  font-weight: 500;
+}
+.first-field-button:hover,
+.first-field-button:focus {
+  color: red;
+  background-color: white;
+}
+.first-field-button:active {
+  color: bisque;
+  background-color: red;
+}
+.three-field {
+  background-color: #f4f4fd;
+}
+.three-field p:hover {
+  color: red;
+}
+.last-field {
+  background-color: #2e2f42;
+}
+.last-field-one {
+  color: #f4f4fd;
+  font-size: 18px;
+  text-decoration: none;
+}
+.last-field-two {
+  color: #f4f4fd;
+}
