@@ -19,8 +19,12 @@ h3 {
   color: black;
   text-decoration: none;
 }
+.communication {
+  color: black;
+  text-decoration: none;
+}
 .accent {
-  color: rgb(40, 8, 226);
+  color: #4d5ae5;
 }
 .nav {
   color: black;
@@ -36,18 +40,30 @@ h3 {
   font-weight: 700;
 }
 .first-field-button {
+  background-color: #4d5ae5;
   cursor: pointer;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: #4d5ae5;
   width: 169px;
   height: 56px;
   font-size: 16px;
   font-weight: 500;
+  color: #ffffff;
+  border: none;
 }
 .first-field-button:hover,
 .first-field-button:focus {
-  color: red;
-  background-color: white;
+  --iris: #4d5ae5;
+  --ocean: #404bbf;
+  --navy-blue: #2e2f42;
+  --green: #31d0aa;
+  --slate: #434455;
+  --light-slate: #8e8f99;
+  --cornflower: #e7e9fc;
+  --cloud: #f4f4fd;
+  --navy-blue-modal: rgba(46, 47, 66, 0.4);
+  --grey: rgba(46, 47, 66, 0.7);
+  --white: #fff;
+  --dairy: #fcfcfc;
 }
 .first-field-button:active {
   color: bisque;
