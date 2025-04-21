@@ -60,7 +60,6 @@ h3 {
   font-size: 56px;
   line-height: 1.07143;
   letter-spacing: 0.02em;
-  text-align: center;
 }
 .first-field-button {
   background-color: #4d5ae5;
@@ -79,9 +78,6 @@ h3 {
 }
 .three-field {
   background-color: #f4f4fd;
-}
-.three-field p:hover {
-  color: red;
 }
 .last-field {
   background-color: #2e2f42;
